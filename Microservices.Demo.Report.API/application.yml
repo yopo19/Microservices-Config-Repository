@@ -1,0 +1,3 @@
+ServicesUrl:
+    PolicyApiUrl: https://Microservices.Demo.Policy.API/api/policies  
+    ProductApiUrl: https://Microservices.Demo.Product.API/api/products  
